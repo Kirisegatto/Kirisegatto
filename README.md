@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/titisegatti/)
 
 ![Gmail](https://aleen42.github.io/badges/src/google_plus.svg
-) tiago01workingsegatti@gmail.com
+) tiago01segatti@gmail.com
 
 ### Programas ultilizados por mim
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
