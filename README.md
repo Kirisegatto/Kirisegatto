@@ -11,10 +11,11 @@
 ) tiago01segatti@gmail.com
 
 ### Programas ultilizados por mim
+### Softwares i use: 
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 Gosto bastante de explorar o imenso mundo da tecnologia. Todo dia se aprende algo novo e conhecimento não ocupa espaço. 
-I enjoy exploring the huge world of technology. Everyday you can learn something new and knowledge doesnt take up space
+     I enjoy exploring the huge world of technology. Everyday you can learn something new and knowledge doesnt take up space
 ### Metas Até o final do ano:
 ### Goals until the end of the year:
 - Estudar e aprender Javascript, CSS e HTML. 
