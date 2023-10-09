@@ -4,9 +4,6 @@
 ### Contato comigo :
 ### Here's ways to contact me:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-segatti-271790271/)
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/titisegatti/)
-
 ![Gmail](https://aleen42.github.io/badges/src/google_plus.svg
 ) tiago01segatti@gmail.com
 
@@ -17,7 +14,4 @@
 Gosto bastante de explorar o imenso mundo da tecnologia. Todo dia se aprende algo novo e conhecimento não ocupa espaço.
 
 I enjoy exploring the huge world of technology. Everyday you can learn something new and knowledge doesnt take up space
-### Metas Até o final do ano:
-### Goals until the end of the year:
-- Estudar e aprender Javascript, CSS e HTML. 
-- Study and learn Javacrispt, CSS and HTML.
+
