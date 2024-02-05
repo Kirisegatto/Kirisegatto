@@ -4,9 +4,6 @@
 ### Contato comigo :
 ### Here's ways to contact me:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-segatti-271790271/)
-![Gmail](https://aleen42.github.io/badges/src/google_plus.svg
-) tiago01segatti@gmail.com
-
 ### Programas ultilizados por mim
 ### Softwares i use: 
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
